@@ -89,6 +89,8 @@ a:hover {
                                 <input type="text" class="form-control" placeholder="Your Name *" value=""/>  
                             </div>  
                             <div class="form-group">  
+                                 <!-- simple Line Add -->
+                                  <input type="hidden" id="custId" name="custId" value="3487">
                                 <input type="text" class="form-control" placeholder="Phone Number *" value=""/>  
                             </div>  
                         </div>              
